@@ -119,8 +119,8 @@
             "#d8c28f"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#111111",
-            "#111111"
+            "#161519",
+            "#161519"
         ],
         "CHANNELS_DEFAULT": [
             "#5E537C",
@@ -164,10 +164,10 @@
     "RED_400": "#a297c3"
     },
   
-      "background": {
-    "blur": 0.5,
-    "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1096862893552709642/9b851517dfd4402482ceff768c79d4db.jpg",
-    "alpha": 0.7
-    },
-    "color": "#4d4463"
+
+
+
+
+
+
 }
